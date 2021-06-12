@@ -12,8 +12,8 @@ After cleaning and our data, we then started preprocessing and feature engineeri
 
 ## MAIN OBJECTIVES
 <ul>
-    <li>To utilize a database management system in producing data visualizations of Spolity and its tracks, genres, metrics using Python, Flask, HTML/CSS</li>
-    <li>To create a dashboard in Tableau with some level of user-driven interaction</li>
+    <li>To utilize Spotify Data to produce data visualizations of music, tracks, genres, and metrics using Python, Flask, HTML/CSS</li>
+    <li>To create a dashboard in Tableau with some level of user-driven interaction to dusplay high level summary of Tracks Data</li>
 </ul>
 <hr>
 
@@ -23,7 +23,6 @@ After cleaning and our data, we then started preprocessing and feature engineeri
         <ul>
             <li>website: <a href="https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=artists.csv" >https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=artists.csv</a></li>
             <li>tracks data (csv)</li>
-            <li>artists data (csv)</li>
           
 <hr>
 
@@ -31,6 +30,7 @@ After cleaning and our data, we then started preprocessing and feature engineeri
 <ul>
     <li>Python/Pandas</li>
     <li>Flask App</li>
+    <li>SK Learn</li>
     <li>Postgresql</li>
     <li>Bootstrap</li>
     <li>Jupyter</li>
