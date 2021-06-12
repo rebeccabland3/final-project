@@ -1,5 +1,5 @@
 # Spotify --- Machine Learning Analysis with Data Visualizations
-Website: [kaggle artist and tracks data](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=artists.csv)
+Website: [tracks data from Kaggle (Spotify API)](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=artists.csv)
 
 <strong> Dancing Dolphins</strong><br><h3><emp> MEMBERS:  Jacob Girgle  |  Enrique Gallego  |  Rebecca Bland  |  Isaac M | Silvart </emp></h3></h1></p>
 <hr>
